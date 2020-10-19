@@ -1,0 +1,281 @@
+.thirdBlock {
+  background-color:lightblue;
+  padding: 70px;
+  padding-top: 0px !important;
+  /* text-align: center; */
+  color: white;
+}
+/* .card {
+
+  width: 20%;
+  height: 25%;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  margin-bottom: 15px;
+  font-size: 15px;
+} */
+.fourthBlock
+{
+  background-color:#edf3f3;
+  padding: 70px;
+  padding-top: 0px !important;
+  /* text-align: center; */
+  color: white;
+}
+
+
+.card {
+  /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
+  transition: 0.3s;
+  width: 33%;
+  padding: 10%;
+  background: #ffff;
+  
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* .container {
+  padding: 2px 16px;
+} */
+
+.blog-area {
+  background: #edf3f3;
+}
+
+.post-wrapper {
+  padding: 50px 50px 20px;
+  margin-bottom: 30px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd;
+  background: #fff;
+}
+.single-post .post-footer > li > a {
+  line-height: 45px;
+  width: 100%;
+}
+.blog-area .title {
+  margin-bottom: 25px;
+}
+
+.blog-area .para {
+  margin-bottom: 25px;
+}
+
+.blog-area .single-post {
+  height: 100%;
+  position: relative;
+  padding-bottom: 45px;
+  overflow: hidden;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd;
+  background: #fff;
+}
+
+a,
+button {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s;
+}
+
+.blog-area .single-post .title {
+  padding: 20px 30px 30px;
+}
+
+a,
+button {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s;
+}
+
+a,
+button {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s;
+}
+
+.single-post .post-footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+.single-post .post-footer > li {
+  width: 33.33%;
+  display: inline-block;
+  border-right: 1px solid #fff;
+  background: #edf3f3;
+}
+
+.single-post .post-footer > li:first-child {
+  float: left;
+}
+
+.single-post .post-footer > li:last-child {
+  border: 0px;
+  float: right;
+}
+
+.single-post .post-footer > li > a {
+  line-height: 45px;
+  width: 100%;
+}
+
+.single-post .post-footer i {
+  display: inline-block;
+  margin-right: 10px;
+  opacity: 0.6;
+  font-size: 1.1em;
+}
+
+.main-post {
+  margin-top: -100px;
+  padding: 50px 0px 20px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid #eee;
+  background: #fff;
+}
+
+.main-post .post-top-area,
+.main-post .post-bottom-area {
+  margin: 0 70px;
+}
+
+.main-post .pre-title {
+  margin-bottom: 20px;
+  color: #777;
+}
+
+.main-post .title {
+  margin-bottom: 30px;
+}
+
+.main-post .para {
+  margin: 30px 0;
+}
+
+.main-post ul.tags {
+  margin: 30px 0;
+}
+
+.main-post ul.tags > li > a {
+  padding: 7px 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  float: left;
+  border: 1px solid #ddd;
+  background: #ddd;
+}
+
+.main-post ul.tags > li > a:hover {
+  background: none;
+}
+
+.post-style-2 .blog-image img {
+  height: 100%;
+  width: 100%;
+}
+.post-style-2 .blog-info {
+  width: 50%;
+  float: left;
+  height: 100%;
+  position: relative;
+  padding: 30px;
+  padding-bottom: 45px;
+}
+.post-style-2 .blog-info {
+  width: 50%;
+  float: left;
+  height: 100%;
+  position: relative;
+  padding: 30px;
+  padding-bottom: 45px;
+}
+
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.post-style-2 .blog-image {
+  width: 100%;
+  height: auto;
+  float: none;
+}
+.main-post .pre-title {
+  margin-bottom: 20px;
+  color: #777;
+}
+.blog-area .title {
+  margin-bottom: 25px;
+}
+.post-style-2 .blog-info {
+  width: 50%;
+  float: left;
+  height: 100%;
+  position: relative;
+  padding: 30px;
+  padding-bottom: 45px;
+}
+
+
+
+.blog-area .single-post {
+  height: 100%;
+  position: relative;
+  padding-bottom: 45px;
+  overflow: hidden;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd;
+  background: #fff;
+}
+
+
+.backgroundiamgee{
+  background-image: url("../assets/overlay-image.jpeg");
+}
+
+
+.lastBlock
+{
+  /* background-color:#f0f5f5; */
+  padding: 70px;
+  padding-top: 0px !important;
+  /* text-align: center; */
+
+}
+
+.secondlastBlock{
+  background-color:lightblue;
+  padding: 100px;
+  
+}
+
+h1{
+  margin-top: 0px !important;
+}
+
+
+#hero {
+  width: 100%;
+  height: 80vh;
+  background: url("../assets/overlay-image.jpeg") top center;
+  background-size: cover;
+  position: relative;
+  background-color: blue;
+  background-color: coral;
+  }
+button{
+  border-radius: 10px;}
